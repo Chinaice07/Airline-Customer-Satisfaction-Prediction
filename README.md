@@ -33,6 +33,7 @@ The dataset (`Invistico_Airline.csv`) contains 129,880 historical survey evaluat
 ├── README.md                                  # Project Overview and Analytical Findings
 ├── Invistico_Airline.csv                      # Raw airline passenger survey dataset
 ├── logistic_regression_analysis.ipynb         # Analysis Notebook
+└── logistic_regression_analysis.pdf          # Analysis Notebook in LaTeX format
 ```
 
 ## 💻 Environment Setup & Installation
